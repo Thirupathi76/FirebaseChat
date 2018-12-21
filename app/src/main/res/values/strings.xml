@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using Lapit Chat App</string>
+
+    <string name="slide_to_cancel">"Slide to cancel"</string>
+    <string name="app_info">"A WhatsApp style audio recording view to send voice notes in chat.\nHold the Mic to record, then slide left to cancel or swipe up to Lock and record.\n\nCredit:\nVarun John\nhttps://github.com/varunjohn\nvarunjohn1990@gmail.com"</string>
+
+</resources>
